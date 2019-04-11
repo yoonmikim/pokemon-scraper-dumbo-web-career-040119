@@ -4,7 +4,7 @@ class Pokemon
   end
   
   def self.save 
-    pokemon = 
+    pokemon  
   end
     
 end
